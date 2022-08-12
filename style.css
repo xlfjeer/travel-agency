@@ -45,3 +45,15 @@ body {
     line-height: 44px;
     margin-top: 88px;
 }
+.input {
+    width: 447px;
+    height: 67px;
+    font-size: 24px;
+    outline: none;
+    border: 4px solid #E9E9E9;
+    border-radius: 20px;
+}
+.forma {
+    text-align: center;
+    margin-top: 45px;
+}
