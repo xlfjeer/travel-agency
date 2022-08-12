@@ -33,3 +33,15 @@ body {
    margin-left: auto;
    margin-top: 225px;
 }
+.subtitle {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 51px;
+    font-weight: 900;
+    width: 500px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 44px;
+    margin-top: 88px;
+}
