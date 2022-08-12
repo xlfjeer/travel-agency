@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    font-family: 'Roboto', sans-serif;
     }
 .header {
     background-image: url(back.jpg);
@@ -14,6 +13,7 @@ body {
     font-weight: 700;
     font-size: 34px;
     margin-top: 34px;
+    font-family: 'Roboto', sans-serif;
 }
 .nav-item:last-child {
     margin-right: 0px;
@@ -21,4 +21,15 @@ body {
 .nav {
     display: flex;
     justify-content: center;
+}
+.title {
+   color: white;
+   font-size: 75px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 900;
+   width: 1050px;
+   text-align: center;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 225px;
 }
