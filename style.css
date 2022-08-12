@@ -14,6 +14,7 @@ body {
     font-size: 34px;
     margin-top: 34px;
     font-family: 'Roboto', sans-serif;
+    transition: color 0.25s linear
 }
 .nav-item:last-child {
     margin-right: 0px;
@@ -52,8 +53,33 @@ body {
     outline: none;
     border: 4px solid #E9E9E9;
     border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
 }
 .forma {
     text-align: center;
     margin-top: 45px;
 }
+.btn {
+    text-align: center;
+    margin-top: 25px;
+}
+.button {
+     background-color: #5B89CE;
+     text-decoration: none;
+     color: white;
+     font-weight: 700;
+     font-size: 21px;
+     font-family: 'Roboto', sans-serif;
+     padding: 16px 18px;
+     border: 2px solid #476443;
+     border-radius: 25px;
+     transition: background-color 0.3s linear;
+}
+.button:hover {
+    background-color: #0c2448;
+
+}
+.nav-item:hover {
+    color: grey;
+}
+
