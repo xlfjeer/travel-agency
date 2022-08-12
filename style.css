@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    }
+.header {
+    background-image: url(back.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.nav-item {
+    color: white;
+    text-decoration: none;
+    margin-right: 86px;
+    font-weight: 700;
+    font-size: 34px;
+    margin-top: 34px;
+}
+.nav-item:last-child {
+    margin-right: 0px;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+}
